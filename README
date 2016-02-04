@@ -1,0 +1,5 @@
+Vagrantfile and provision script for bro on centos
+
+includes binpac_quickstart
+
+TODO: finish this README...
